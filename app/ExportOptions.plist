@@ -9,7 +9,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://www.johnnymeyer.github.io/app/Ahch-To.ipa</string>
+		<string>https://www.johnnymeyer.github.io/app/Apps/Ahch-To.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://www.johnnymeyer.github.io/app/small.png</string>
 		<key>fullSizeImageURL</key>
